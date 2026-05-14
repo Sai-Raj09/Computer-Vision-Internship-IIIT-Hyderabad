@@ -24,6 +24,14 @@ This repository contains tasks completed as part of my internship.
 - Metadata Files train.txt contains paths of training images used during YOLO training.
 - val.txt contains paths of validation images used for evaluation during training.
 
+# WEEK 5
+
+- Task 1: Preparing YOLO Dataset Structure
+- Task 2: Resizing Images for Training
+- Task 3: Training YOLOv8 Custom Model
+- Task 4: Performing Detection on Test Images
+- Task 5: Creating Comparison Video using FFmpeg
+
 # Tools Used
 
 - Python
